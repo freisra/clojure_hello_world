@@ -1,4 +1,4 @@
-# nome-projeto
+# hello-world
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar nome-projeto-0.1.0-standalone.jar [args]
+    $ java -jar hello-world-0.1.0-standalone.jar [args]
 
 ## Options
 
