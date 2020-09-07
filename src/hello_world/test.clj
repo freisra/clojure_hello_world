@@ -1,5 +1,5 @@
 
-(ns test.core
+(ns hello_world.test.core
     (:gen-class)
     (:require [clojure.string :as str]))
 
